@@ -11,4 +11,5 @@ Ein Proxy bzw. ein Proxy-Server ist ein Vermittler innerhalb eines Netzwerks. Er
 ## Installation und Konfiguration
 
 Zuerst wird die statische IP-Addresse eingerichtet:
+
 `sudo nano /etc/network/interface`
