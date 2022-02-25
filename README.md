@@ -1,4 +1,3 @@
 # Squit Proxyserver
----
 
 ## Ausgangslage
