@@ -35,4 +35,4 @@ Die Squit-Software wird mit
 heruntergeladen.
 Von dem ursprüngliche Konfiguration-File wird zur Sicherheit ein Backup angelegt.
 
-`cp /etc/squid/squid.conf /etc/squid/squid.conf.bachup`
+`cp /etc/squid/squid.conf /etc/squid/squid.conf.backup`
