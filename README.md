@@ -58,9 +58,20 @@ Befor wir weiterfahren, sollten wir überprüfen ob der Squid-Server aktiv is.
 
 `sudo systemctl status squid.service`
 
-Von dem ursprüngliche Konfiguration-File wird zur Sicherheit ein Backup angelegt.
+Von dem ursprüngliche Konfiguration-File wird zur Sicherheit ein Backup angelegt...
 
 `cp /etc/squid/squid.conf /etc/squid/squid.conf.backup`
+
+... und edditiert.
+
 `sudo nano /etc/squid/squid.conf`
 
+Folgende änderungen werden vorgenommen:
+
+`Http_port: 3128 
+Http_access deny all -> allow all`
+
+Nach dem Konfigurationen Squid neustarten.
+
+`sudo systemctl restart squid.service`
 ## Tests
