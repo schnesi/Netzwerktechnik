@@ -76,5 +76,8 @@ Nach dem Konfigurationen Squid neustarten.
 `sudo systemctl restart squid.service`
 ## Tests
 ## Quintessence
+
+Das Projekt konnte nicht abgeschlossen werden, leider stand uns zu wenig Zeit zur Verfügung. Wir haben jedoch die Gelegenheit sehr genossen, physisch an der Schule einen fachlichen Austausch zu erleben.
+
 ## Sources
 https://peppe8o.com/setup-a-proxy-server-with-raspberry-pi-os-lite-and-squid/
