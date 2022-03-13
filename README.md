@@ -62,7 +62,9 @@ Von dem ursprüngliche Konfiguration-File wird zur Sicherheit ein Backup angeleg
 
 `cp /etc/squid/squid.conf /etc/squid/squid.conf.backup`
 
-... und edditiert.
+... und edditiert [^1].
+
+['1]: [squid.conf] (https://github.com/schnesi/Netzwerktechnik/blob/main/src/squid.conf)
 
 `sudo nano /etc/squid/squid.conf`
 
