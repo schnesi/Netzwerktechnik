@@ -7,7 +7,7 @@ In unserem Praktikum haben wir ein Netzwerk aufgebaut. Dieses enthilt zwei Firew
 ## Intro
 
 Ein Proxy bzw. ein Proxy-Server ist ein Vermittler innerhalb eines Netzwerks. Er wird zwischen Nutzer und Netzwerk-Ressource geschaltet. Nutzer, die ins Internet gehen und einen Proxy nutzen, nehmen also einen Umweg. Durch diesen Umweg kann unter anderem die Kommunikation zwischen Nutzer und Netzwerk-Ressource abgesichert, verschleiert oder beschleunigt werden. Neben den Funktionen von Standard-Proxys gibt es auch Reverse-Proxys, die vor allem für Unternehmen bedeutende sicherheitstechnische Vorteile bieten.
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/6/67/Reverse_proxy_h2g2bob.svg)
+![This is an image](https://www.seobility.net/de/wiki/images/8/8a/Proxy-Server.png)
 
 ### Squit
 Squid ist das beliebteste Open-Source-Paket zum Erstellen eines Proxys in Ihrem selbst gehosteten Linux-Server und wird in diesem Projekt die Grundlage bilden
