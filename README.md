@@ -69,7 +69,7 @@ Von dem ursprüngliche Konfiguration-File wird zur Sicherheit ein Backup angeleg
 
 `sudo nano /etc/squid/squid.conf`
 
-Folgende änderungen werden vorgenommen:
+Folgende Änderungen werden vorgenommen:
 
 `Http_port: 3128 
 Http_access deny all -> allow all`
